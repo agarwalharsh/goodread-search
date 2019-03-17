@@ -1,11 +1,12 @@
 This project was bootstrapped with Create React App.
+Hosted on Heroku
 
-Github hosting URL - 
+Heroku App URL - https://goodreads-search-app.herokuapp.com/
 
 To run the app-
 
 1. Clone the repo
-2. Run nom install
+2. Run npm install
 3. Run npm start
 4. The magic happens at PORT 3000!
 
