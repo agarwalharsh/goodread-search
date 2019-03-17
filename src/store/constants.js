@@ -1,0 +1,8 @@
+export const BooksActionTypes = {
+    RETRIEVE_BOOKS: 'RETRIEVE_BOOKS',
+    SET_BOOKS_LIST: 'SET_BOOKS_LIST',
+    RETRIEVE_BOOK_DETAIL: 'RETRIEVE_BOOK_DETAIL',
+    SET_BOOK_DETAIL: 'SET_BOOK_DETAIL'
+}
+
+export const apiKey = 'ZkYvuWYVWdD1gX28TpDdw';
