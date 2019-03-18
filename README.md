@@ -10,6 +10,10 @@ To run the app-
 3. Run npm start
 4. The magic happens at PORT 3000!
 
+To run the tests-
+
+1. Run npm run test
+
 
 Things that could have been implemented with more time-
 
