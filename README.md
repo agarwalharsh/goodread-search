@@ -13,5 +13,5 @@ To run the app-
 
 Things that could have been implemented with more time-
 
-1. Test cases could have been written
+1. Could have written more test cases
 2. CSS could be segregated for different components
