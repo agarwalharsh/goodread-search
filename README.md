@@ -10,7 +10,7 @@ To run the app-
 3. Run cd client
 4. Run npm install
 5. Run cd ..
-3. Run npm start
+3. Run npm run dev
 4. The magic happens at PORT 3000!
 
 To run the tests-
