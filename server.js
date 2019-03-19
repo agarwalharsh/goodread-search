@@ -34,15 +34,6 @@ app.get('/api/getBookDetail/:bookId/:apiKey', function(req, res){
      })
   });
 
-if (process.env.NODE_ENV === 'production') {
-    app.use(express.static('client/build'));
-
-    // Handling React routing
-    app.get('*', function(req, res) {
-      res.sendFile(path.join(__dirname, 'client/build', 'index.html'));
-    });
-}
-
 app.listen(3001, function() {
     console.log("Listening on port 3001");
 });
