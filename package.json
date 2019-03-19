@@ -4,8 +4,7 @@
   "scripts": {
     "start": "concurrently \"npm run server\" \"npm run client\"",
     "server": "node server.js",
-    "client": "cd client && npm start",
-    "heroku-postbuild": "cd client && npm install && npm install --only=dev --no-shrinkwrap && npm run build"
+    "client": "cd client && npm start"
   },
   "devDependencies": {
     "concurrently": "^4.1.0"
